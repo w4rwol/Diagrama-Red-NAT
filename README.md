@@ -1,4 +1,4 @@
 # Diagrama Red NAT
 
-![Alt text](https://github.com/w4rwol/Diagrams/blob/main/diagrama%20red%20NAT.PNG?raw=true)
+![Alt text](https://github.com/w4rwol/VBOX_RedNAT/blob/main/rednat8.PNG)
 
